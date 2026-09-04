@@ -20,6 +20,16 @@ data/processed/
 # VS Code
 .vscode/
 
+# Visual Studio
+.vs/
+*.suo
+*.user
+bin/
+obj/
+
 # OS
 .DS_Store
 Thumbs.db
+
+# Large dataset files (uncomment if you don't want to track them)
+# *.csv
